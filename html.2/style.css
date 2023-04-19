@@ -1,7 +1,9 @@
 * {
 margin: 0;
 padding: 0;
-
+}
+bory{
+    font-family: 'Poppins',sans-serif;
 }
 .cabecalho {
     background-color: purple;
@@ -14,4 +16,17 @@ padding: 0;
 
 .cabecalho-imagem{
     width: 05%;
+}
+.cabecalho-imagem{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 20px;
+}
+
+.cabecalho-lista-item a {
+    text-decoration: nome;
+    color: white;
+}
+.escola-imagem{
+    width: 25%;
 }
